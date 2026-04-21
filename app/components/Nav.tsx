@@ -20,6 +20,7 @@ export default function Nav() {
         <li><a href="/#o-nama">O nama</a></li>
         <li><a href="/#kontakt">Kontakt</a></li>
       </ul>
+      <Link href="/radovi" className="nav-radovi-mobile">Radovi</Link>
       <a href="/#kontakt" className="nav-cta">Kontaktiraj nas</a>
     </nav>
   );
