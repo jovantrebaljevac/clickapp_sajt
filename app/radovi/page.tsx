@@ -10,7 +10,7 @@ const projects = [
     name: 'Agencija Putić',
     desc: 'Profesionalni sajt za agenciju osiguranja — sve vrste osiguranja na jednom mestu, pregledan dizajn i jednostavan kontakt.',
     tags: ['Web dizajn', 'Osiguranje'],
-    href: 'https://agencija-putic.vercel.app',
+    href: 'https://agencijaputic.rs',
     category: 'web',
   },
   {
